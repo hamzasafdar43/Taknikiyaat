@@ -1,5 +1,4 @@
-
-
-09:00pm-09:30pm | meet with uncle iqbal for azan recording
-10:30pm-11:32pm | sign in for appstoreconnect (leave) share azdkar app link with ali bhai for checking reference. Contact with umar bhai for audio voice and share alqaswa link with umar bhai
-10:30pm-11:32pm | make repo for uploading work report
+09:00pm-09:30pm | Met with Uncle Iqbal for the azan recording. 30m
+10:30pm-11:32pm | Signed in to App Store Connect (leave) and shared the Azkar app link with Ali Bhai for reference checking. Contacted Umar Bhai for the audio voice and shared the AlQaswa link with him. 1h2m
+11:32pm-02:00am |  Had a meeting with Umar Bhai and explained all things about the audio voice. Bought the Claude subscription and watched a YouTube tutorial on Claude security. Sent the company an email  with the spending expense on laptop repairing and the Claude subscription. Created a new GitHub repo for uploading work reports.  2h28m
+Total Time | 4h
