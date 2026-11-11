@@ -1,0 +1,15 @@
+11Nov26-Wed
+
+06-30am–07:20am |  50m
+Add voice on instagram reel 
+Create new with analytics connect code or deploy on server netlify
+Contact with ali bhai for asking status azdkar app checking
+11-30am–12:37pm |  1h7m
+figure out how to fetch correct timings in salah app for all Pakistan cities and all cities of the world 
+(info) The API is particularly useful for prayer apps, mosque/community sites, Ramadan calendars, travel tools, notifications, widgets, and Islamic-service integrations. AlAdhan says its API is used by organizations including Nusuk, Talabat, Qatar Islamic Bank, Dubai Health Authority, and several government and financial institutions; the web app and REST API are also described as open source. 
+GET https://api.aladhan.com/v1/timings/11-11-2026?latitude=31.5204&longitude=74.3587&method=1&school=1&timezonestring=Asia/Karachi&iso8601=true
+
+06-37pm–07:30pm | 53m
+Flutter step up in uni lab computer download android studio and install flutter or skd
+Download emulator device.
+Total Time | 2h50m
