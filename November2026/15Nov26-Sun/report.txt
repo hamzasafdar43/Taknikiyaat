@@ -1,4 +1,15 @@
 15Nov26-Sun
 
-06:48am–00:00pm |
-solution for prayer times offline https://swiftpackageregistry.com/abdulwahed-s/prayer-time-plus-swift this site have offline api for prayer time
+06:48am–08:00am | 1h12m
+Researched offline prayer-time solutions; this Swift package has an offline API: https://swiftpackageregistry.com/abdulwahed-s/prayer-time-plus-swift
+Found the Adhan package for Flutter: https://pub.dev/packages/adhan
+Next step: integrate prayer times into the app using https://github.com/iamriajul/adhan-dart
+08:00am–08:45am | 45m
+Attended the stand-up call with Umair and the Taknikiyaat team
+03:30pm–06:15pm | 2h45m
+Checked the Play Store app status
+Attended the company stand-up call
+Messaged people for their Gmail addresses to add them as Play Store testers
+Explored the Play Console: reviewed tester emails and learned how to add new testers and share the tester opt-in / install link
+Researched how to update the marketing URL for the Salah app in App Store Connect
+Total Time | 4h42m

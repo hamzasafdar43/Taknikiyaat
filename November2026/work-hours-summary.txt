@@ -10,4 +10,5 @@ Date | Working Hours (Time Slots) | Total Hours
 12Nov26-Thu | 10:05am–02:00pm | 3h55m
 13Nov26-Fri | 08:03am–09:01am, 09:24am–01:00pm | 4h34m
 14Nov26-Sat | 01:45pm–03:20pm, 09:00pm–09:43pm | 2h18m
-All Hours Total |  | 26h24m
+15Nov26-Sun | 06:48am–08:00am, 08:00am–08:45am, 03:30pm–06:15pm | 4h42m
+All Hours Total |  | 31h6m
