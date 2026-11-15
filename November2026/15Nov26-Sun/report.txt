@@ -1,0 +1,4 @@
+15Nov26-Sun
+
+06:48am–00:00pm |
+solution for prayer times offline https://swiftpackageregistry.com/abdulwahed-s/prayer-time-plus-swift this site have offline api for prayer time

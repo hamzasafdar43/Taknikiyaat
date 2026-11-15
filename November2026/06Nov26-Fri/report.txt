@@ -1,0 +1,11 @@
+06Nov26-Fri
+
+07:30am–08:38am | 1h8m
+Built a new APK file for the AlQaswa app
+Made the AlQaswa website public
+Attended the stand-up call
+12:06pm–01:13pm | 1h7m
+Made further improvements to the AlQaswa website
+Hosted the website on Netlify
+Contacted a studio about the azan recording
+Total Time | 2h15m
