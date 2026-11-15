@@ -1,0 +1,10 @@
+13Nov26-Fri
+
+08:03am–09:01am | 58m
+Attended the stand-up call
+09:24am–01:00pm | 3h36m
+Asked Umar Bhai whether the Urdu AI translation is good or can be improved
+Set Chrome to show tabs vertically
+Added an admin dashboard to the AlQaswa website
+Pushed the code to GitHub and deployed it to the server
+Total Time | 4h34m

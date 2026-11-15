@@ -1,0 +1,11 @@
+14Nov26-Sat
+
+01:45pm–03:20pm | 1h35m
+Fixed a server issue that blocked uploading the admin dashboard code
+Redeployed to Cloudflare (developer site): https://taknikiyaat-alqaswa-web.pages.dev/
+Admin panel: https://taknikiyaat-alqaswa-web.pages.dev/admin  admin password Hamza
+Contacted Umar Bhai about recording one example story
+Scheduled a call with the new joiners
+09:00pm–09:43pm | 43m
+Attended the stand-up call
+Total Time | 2h18m

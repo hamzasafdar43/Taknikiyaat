@@ -1,0 +1,10 @@
+07Nov26-Sat
+
+website review https://astounding-kelpie-96ee46.netlify.app/#contact
+Google analytics code
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-TNMGLZXM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
